@@ -1130,3 +1130,10 @@ footer .copy{
       border-radius:10px;
    }  
 }
+
+/*Other CSS*/
+.block{display:block;}
+.error
+{
+ color:#a94442;
+}
